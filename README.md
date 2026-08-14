@@ -4,6 +4,16 @@
 
 ---
 
+## 🔗 Acesse o Caderno no NotebookLM
+
+Você pode navegar diretamente pelo caderno interativo criado para este projeto através do link abaixo:
+
+👉 **[Clique aqui para acessar o Caderno no NotebookLM](https://notebook.google.com/notebook/1f141760-f53a-4cf8-88e5-e887a199656d)**
+
+*(Nota: Certifique-se de que o link de compartilhamento no NotebookLM esteja configurado como público/visualizador)*
+
+---
+
 ## 🎯 Contexto e Objetivos
 
 * **Tema Escolhido:** Como Funciona a Renda Fixa (Conceitos Básicos, Títulos Públicos e Privados e Indicadores Financeiros).
@@ -37,7 +47,7 @@ Relação de materiais abertos e oficiais inseridos no NotebookLM:
 
 ### 🩹 Cicatrizes e Aprendizados (Troubleshooting)
 * **Desafio Encontrado:** Ao perguntar sobre rentabilidade dos títulos do Tesouro, a IA misturou conceitos gerais da internet em vez de focar estritamente nas regras dos documentos carregados.
-* **Como Solucionei:** Adicionei ao prompt o comando de restrição: *"Responda utilizando exclusivamente as informações presentes nas fontes do caderno"*, garantindo respostas fieis e sem alucinações.
+* **Como Solucionei:** Adicionei ao prompt o comando de restrição: *"Responda utilizando exclusivamente as informações presentes nas fontes do caderno"*, garantindo respostas fiéis e sem alucinações.
 
 ---
 
