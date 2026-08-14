@@ -10,7 +10,6 @@ Você pode navegar diretamente pelo caderno interativo criado para este projeto 
 
 👉 **[Clique aqui para acessar o Caderno no NotebookLM](https://notebook.google.com/notebook/1f141760-f53a-4cf8-88e5-e887a199656d)**
 
-*(Nota: Certifique-se de que o link de compartilhamento no NotebookLM esteja configurado como público/visualizador)*
 
 ---
 
